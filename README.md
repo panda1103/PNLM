@@ -40,7 +40,6 @@ pip install -t requirement.txt
 4. Sample
 
    ```bash
-   cd script
    python sample.py --t 1.8 --p 0.9 --num-samples 2 --context "1"
    ```
 
