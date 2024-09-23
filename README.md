@@ -50,9 +50,9 @@ pip install -t requirement.txt
 
    The notebook calculates various sequence- and structure-based quality scores for proteins, such as those produced by generative models. Many different kinds of metrics can be calculated. For all of the metrics, proteins with higher scores (closer to zero for negative numbers) are predicted to be more likely to fold and have function than proteins with lower scores.
    
-   **\*inputs\***: Please provide protein sequences in fasta format, AlphaFold2-predicted structures, and/or reference protein sequences in fasta format as appropriate (see sections below).
+   **inputs**: Please provide protein sequences in fasta format, AlphaFold2-predicted structures, and/or reference protein sequences in fasta format as appropriate (see sections below).
    
-   **\*outputs\***: A comma-separated values (csv) text file with the calculated metrics.
+   **outputs**: A comma-separated values (csv) text file with the calculated metrics.
 
 
 
