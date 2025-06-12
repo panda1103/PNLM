@@ -16,14 +16,14 @@
 
 import math
 
-from ...configuration_utils import PretrainedConfig
-from ...utils import logging
+from transformers.configuration_utils import PretrainedConfig
+from transformers.utils import logging
 
 
 logger = logging.get_logger(__name__)
 
 
-from ..deprecated._archive_maps import MAMBA_PRETRAINED_CONFIG_ARCHIVE_MAP  # noqa: F401, E402
+#from ..deprecated._archive_maps import MAMBA_PRETRAINED_CONFIG_ARCHIVE_MAP  # noqa: F401, E402
 
 
 class MambaConfig(PretrainedConfig):

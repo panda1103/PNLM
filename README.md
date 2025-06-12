@@ -18,7 +18,7 @@ conda activate <env_name>
 
 ```bash
 git clone http://github.com/yao-jiawei/PNLM.git
-pip install -t requirement.txt
+pip install -r requirement.txt
 ```
 
 
