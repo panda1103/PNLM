@@ -33,7 +33,8 @@ pip install -t requirement.txt
 
    ```bash
    cd checkpoint
-   wget https://drive.google.com/file/d/149PKklWYpmqkvECyMvVBeUIMauNy_3KZ/view?usp=sharing
+   download checkpoint from
+   https://drive.google.com/file/d/149PKklWYpmqkvECyMvVBeUIMauNy_3KZ/view?usp=sharing
    tar xfz weight.tar.gz
    ```
 
