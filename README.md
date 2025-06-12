@@ -35,7 +35,7 @@ pip install -r requirement.txt
    cd checkpoint
    download checkpoint from
    https://drive.google.com/file/d/149PKklWYpmqkvECyMvVBeUIMauNy_3KZ/view?usp=sharing
-   tar xfz weight.tar.gz
+   tar xf weight.tar
    ```
 
 4. Sample
